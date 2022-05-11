@@ -37,10 +37,10 @@ Fan of technology, digital drawing, swimming, bodybuilding physique, astronomy, 
 ### Desing Tech Skills
 
 <img src="https://img.shields.io/badge/-Adobe_Photoshop-black?style=flat&logo=AdobePhotoshop&logoColor=white"> <img src="https://img.shields.io/badge/-Adobe_Illustrator-black?style=flat&logo=Adobeillustrator&logoColor=white">
+<img src="https://img.shields.io/badge/-Adobe_Lightroom-black?style=flat&logo=Adobelightroom&logoColor=white">
 <img src="https://img.shields.io/badge/-Adobe_InDesing-black?style=flat&logo=AdobeinDesign&logoColor=white">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://img.shields.io/badge/-Adobe_Premiere_Pro-black?style=flat&logo=Adobepremierepro&logoColor=white">
+<img src="https://img.shields.io/badge/-Adobe_After_Effects-black?style=flat&logo=Adobeaftereffects&logoColor=white">
 <img src="https://img.shields.io/badge/-Adobe_XD-black?style=flat&logo=AdobexD&logoColor=white">
 
 ---
