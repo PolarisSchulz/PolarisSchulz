@@ -1,6 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ### Hey there, nice to see you 🌻
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 Welcome to my Github page!
 I´m Abigail, Front-End Developer with a lot of knowledge in UI/UX design and I have a career in graphic design.
 I´m from Mexico, and I love technology, digital drawing, swimming, bodybuilding physique, astronomy, animation and movie reviews.
@@ -14,7 +15,6 @@ I´m from Mexico, and I love technology, digital drawing, swimming, bodybuilding
 
 ⚡ Unbelievable fact: My first words were "Hello world". (I warned you!)
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 ---
 ---
