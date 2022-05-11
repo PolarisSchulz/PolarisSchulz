@@ -23,7 +23,6 @@ I´m from Mexico :house_with_garden: and I love technology, digital drawing, swi
 ---
 ---
 
-<img align="right" alt="img" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" width="55%" height="auto" />
 ### Tech & Tools 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -72,3 +71,4 @@ and more... ♥
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abigaildgworks@gmail.com)
 [<img src="https://img.shields.io/github/followers/PolarisSchulz?label=follow&style=social" height="22" title="Follow me" />](https://github.com/PolarisSchulz) 
 
+<img align="center" alt="imgGithub" src="https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" width="50%" height="auto" />
