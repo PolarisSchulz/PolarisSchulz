@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ### Hey there, nice to see you 🌻
-<img align="right" alt="img" src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gifv" width="60%" height="auto" />
+<img align="right" alt="img" src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gifv" width="55%" height="auto" />
 Welcome to my Github page!
 I´m Abigail, Front-End Developer with a lot of knowledge in UI/UX design and I have a career in graphic design.
 I´m from Mexico, and I love technology, digital drawing, swimming, bodybuilding physique, astronomy, animation and movie reviews.
