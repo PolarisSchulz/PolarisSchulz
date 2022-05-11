@@ -41,7 +41,11 @@ Fan of technology, digital drawing, swimming, bodybuilding physique, astronomy, 
 <img src="https://img.shields.io/badge/-Adobe_InDesing-black?style=flat&logo=AdobeinDesign&logoColor=white">
 <img src="https://img.shields.io/badge/-Adobe_Premiere_Pro-black?style=flat&logo=Adobepremierepro&logoColor=white">
 <img src="https://img.shields.io/badge/-Adobe_After_Effects-black?style=flat&logo=Adobeaftereffects&logoColor=white">
+<img src="https://img.shields.io/badge/-Adobe_Media-black?style=flat&logo=Adobemedia&logoColor=white">
+<img src="https://img.shields.io/badge/-Adobe_Audition-black?style=flat&logo=Adobeaudition&logoColor=white">
 <img src="https://img.shields.io/badge/-Adobe_XD-black?style=flat&logo=AdobexD&logoColor=white">
+<img src="https://img.shields.io/badge/-Blender?style=flat&logo=Blender&logoColor=white">
+<img src="https://img.shields.io/badge/-Cinema_4D?style=flat&logo=Cinema4d&logoColor=white">
 
 ---
 
