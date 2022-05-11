@@ -72,7 +72,5 @@ and more... ♥
 [<img src="https://img.shields.io/github/followers/PolarisSchulz?label=follow&style=social" height="22" title="Follow me" />](https://github.com/PolarisSchulz) 
 
 <img align="center" alt="imgGithub" src="https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" width="100%" height="auto"/>
-<img align="center" alt="imgGithub" src="https://giphy.com/embed/4IVh5W9DQmhbtEEfF0" width="100%" height="auto"/>
-https://giphy.com/embed/4IVh5W9DQmhbtEEfF0
-<iframe src="https://giphy.com/embed/4IVh5W9DQmhbtEEfF0" width="480" height="82" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/4IVh5W9DQmhbtEEfF0"></a></p>
+
 
