@@ -46,6 +46,7 @@ Fan of technology, digital drawing, swimming, bodybuilding physique, astronomy, 
 <img src="https://img.shields.io/badge/-Adobe_XD-black?style=flat&logo=AdobexD&logoColor=white">
 <img src="https://img.shields.io/badge/-Blender-black?style=flat&logo=Blender&logoColor=white">
 <img src="https://img.shields.io/badge/-Cinema_4D-black?style=flat&logo=Cinema4d&logoColor=white">
+<img src="https://img.shields.io/badge/-OBS_Studio-black?style=flat&logo=Obsstudio&logoColor=white">
 
 ---
 
