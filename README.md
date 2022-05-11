@@ -1,8 +1,13 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-### Abigail Pena 🌻
+### Hi there, I´m Abigail Pena 🌻
+Welcome to my Github page! I am Front-End Developer and I have a career in graphic design at the UNAM university!
 
-💬 Ask me about programming in general, I am always available to help and learn together
+🌱 Things I am currently working on:
+My Web page 
+
+
+💬 Ask me about programming in general, I am always available to help and learn together.
 ⚡ Unbelievable fact: My first words were "Hello world". (I warned you!)
 
 
@@ -28,7 +33,7 @@
 
 ---
 
-### You can find in me in the web, Click Here!
+### You can find in me in the web, Click Here! 🌍
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abigaildgworks/)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-ff69b4?style=flat&logo=Dribbble&logoColor=white)](https://dribbble.com/abigaildgworks/about)
