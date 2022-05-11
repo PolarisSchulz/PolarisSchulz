@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 
 ### I want to learn
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> and more... ♥
 
