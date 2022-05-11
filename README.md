@@ -32,7 +32,7 @@ I´m from Mexico :house_with_garden: and I love technology, digital drawing, swi
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-Jest-ff69b4?style=flat&logo=Jest&logoColor=white">
 <img src="https://img.shields.io/badge/-NPM-red?style=flat&logo=Npm&logoColor=white">
-<img src="https://img.shields.io/badge/-ESlint-green?style=flat&logo=Eslint&logoColor=white">
+<img src="https://img.shields.io/badge/-ESlint-purple?style=flat&logo=Eslint&logoColor=white">
 <img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/-Adobe_XD-ff69b4?style=flat&logo=AdobexD&logoColor=white">
 <img src="https://img.shields.io/badge/-Trello-007ACC?style=flat&logo=Trello&logoColor=white">
