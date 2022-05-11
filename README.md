@@ -41,15 +41,6 @@ and more... ♥
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolarisSchulz&show_icons=true&theme=react) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolarisSchulz&layout=compact)](https://github.com/PolarisSchulz/github-readme-stats&layout=compact&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 ### Desing Tech Skills
 
 <img src="https://img.shields.io/badge/-Adobe_Photoshop-black?style=flat&logo=AdobePhotoshop&logoColor=white"> <img src="https://img.shields.io/badge/-Adobe_Illustrator-black?style=flat&logo=Adobeillustrator&logoColor=white">
