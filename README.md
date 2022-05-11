@@ -13,6 +13,8 @@ Fan of technology, digital drawing, swimming, bodybuilding physique, astronomy, 
 
 ⚡ Unbelievable fact: My first words were "Hello world". (I warned you!)
 
+---
+---
 
 ### Tech & Tools 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -34,6 +36,7 @@ Fan of technology, digital drawing, swimming, bodybuilding physique, astronomy, 
 
 ### Desing Tech Skills
 
+<img src="https://img.shields.io/badge/-Photoshop-black?style=flat&logo=AdobePhotoshop&logoColor=white">
 
 ---
 
