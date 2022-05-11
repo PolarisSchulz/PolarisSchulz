@@ -5,7 +5,8 @@
 Welcome to my Github page!
 
 I´m Abigail, Front-End Developer with a lot of knowledge in UI/UX design and I have a career in graphic design.
-I´m from Mexico, and I love technology, digital drawing, swimming, bodybuilding physique, astronomy, animation and movie reviews.
+
+I´m from Mexico 🇲🇽 and I love technology, digital drawing, swimming, bodybuilding physique, astronomy, animation and movie reviews.
 
 🌱 Things I am currently working on:
 - Portfolio
