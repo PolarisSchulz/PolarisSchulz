@@ -62,7 +62,7 @@ and more... ♥
 
 ---
 
-### You can find in me in the web, Click Here! 🌍
+### You can find in me in the web, Click Here:point_down: 🌍
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abigaildgworks/)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-ff69b4?style=flat&logo=Dribbble&logoColor=white)](https://dribbble.com/abigaildgworks/about)
