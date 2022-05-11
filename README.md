@@ -24,13 +24,19 @@ Fan of technology, digital drawing, swimming, bodybuilding physique, astronomy, 
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-Jest-ff69b4?style=flat&logo=Jest&logoColor=white">
+<img src="https://img.shields.io/badge/-Agile_Methodology-red?style=flat">
+
 
 ### I’m currently learning
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 
 ### I want to learn
-<img src="https://img.shields.io/badge/-Python-1572B6?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> and more... ♥
+<img src="https://img.shields.io/badge/-Python-1572B6?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Kotlin-blue?style=flat&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/-Swift-orange?style=flat&logo=Swift&logoColor=white">
+
+and more... ♥
 
 ---
 
