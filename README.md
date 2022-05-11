@@ -29,13 +29,13 @@ I´m from Mexico, and I love technology, digital drawing, swimming, bodybuilding
 
 
 ### I’m currently learning
-<img src="https://img.shields.io/badge/-Sass-gray?style=flat&logo=sass&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Sass-gray?style=flat&logo=sass&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Bootstrap-gray?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-React-gray?style=flat&logo=react&logoColor=ffffff">
 
 ### I want to learn
-<img src="https://img.shields.io/badge/-Python-1572B6?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Kotlin-blue?style=flat&logo=Kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/-Swift-orange?style=flat&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/-Python-gray?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Kotlin-gray?style=flat&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/-Swift-gray?style=flat&logo=Swift&logoColor=white">
 
 and more... ♥
 
