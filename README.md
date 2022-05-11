@@ -4,10 +4,12 @@
 Welcome to my Github page! I am Front-End Developer and I have a career in graphic design at the UNAM university!
 
 🌱 Things I am currently working on:
-My Web page 
+- Portfolio
+- My Web page
 
 
 💬 Ask me about programming in general, I am always available to help and learn together.
+
 ⚡ Unbelievable fact: My first words were "Hello world". (I warned you!)
 
 
