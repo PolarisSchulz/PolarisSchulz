@@ -41,7 +41,7 @@ and more... ♥
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolarisSchulz)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolarisSchulz&show_icons=true&theme=radical)
 
 ### Desing Tech Skills
 
