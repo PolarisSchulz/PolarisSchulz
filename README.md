@@ -1,6 +1,8 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
 ### Abigail Pena 🌻
 
+💬 Ask me about programming in general, I am always available to help and learn together
 ⚡ Unbelievable fact: My first words were "Hello world". (I warned you!)
 
 
