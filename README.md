@@ -72,3 +72,9 @@ and more... ♥
 [<img src="https://img.shields.io/github/followers/PolarisSchulz?label=follow&style=social" height="22" title="Follow me" />](https://github.com/PolarisSchulz) 
 
 <img align="center" alt="imgGithub" src="https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" width="100%" height="auto"/>
+
+<p align="center">  Bye, bye!
+  <img align="center" alt="imgGithub" src="https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" width="100%" height="auto"/>
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
