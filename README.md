@@ -71,4 +71,4 @@ and more... ♥
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abigaildgworks@gmail.com)
 [<img src="https://img.shields.io/github/followers/PolarisSchulz?label=follow&style=social" height="22" title="Follow me" />](https://github.com/PolarisSchulz) 
 
-<img align="center" alt="imgGithub" src="https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" width="50%" height="auto" />
+<img align="center" alt="imgGithub" src="https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" width="100%" height="auto"/>
