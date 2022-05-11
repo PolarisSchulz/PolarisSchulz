@@ -37,6 +37,8 @@ Fan of technology, digital drawing, swimming, bodybuilding physique, astronomy, 
 ### Desing Tech Skills
 
 <img src="https://img.shields.io/badge/-Photoshop-black?style=flat&logo=AdobePhotoshop&logoColor=white">
+<img src="https://img.shields.io/badge/-Photohop-black?style=flat&logo=AdobexD&logoColor=whitee">
+<img src="">
 
 ---
 
