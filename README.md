@@ -1,8 +1,9 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-### Hi there, I´m Abigail Pena 🌻
-Welcome to my Github page! I am Front-End Developer with a lot of knowledge in UI/UX design and I have a career in graphic design at the UNAM university on Mexico!
-Fan of technology, digital drawing, swimming, bodybuilding physique, astronomy, animation and movie reviews.
+### Hey there, nice to see you 🌻
+Welcome to my Github page!
+I´m Abigail, Front-End Developer with a lot of knowledge in UI/UX design and I have a career in graphic design.
+I´m from Mexico, and I love technology, digital drawing, swimming, bodybuilding physique, astronomy, animation and movie reviews.
 
 🌱 Things I am currently working on:
 - Portfolio
@@ -39,6 +40,8 @@ Fan of technology, digital drawing, swimming, bodybuilding physique, astronomy, 
 and more... ♥
 
 ---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolarisSchulz)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Desing Tech Skills
 
