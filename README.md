@@ -30,7 +30,6 @@ I´m from Mexico :house_with_garden: and I love technology, digital drawing, swi
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/-Jest-ff69b4?style=flat&logo=Jest&logoColor=white">
 <img src="https://img.shields.io/badge/-NPM-red?style=flat&logo=Npm&logoColor=white">
 <img src="https://img.shields.io/badge/-ESlint-purple?style=flat&logo=Eslint&logoColor=white">
 <img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma&logoColor=white">
@@ -42,6 +41,7 @@ I´m from Mexico :house_with_garden: and I love technology, digital drawing, swi
 ### I’m currently learning
 <img src="https://img.shields.io/badge/-Sass-gray?style=flat&logo=sass&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Bootstrap-gray?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-React-gray?style=flat&logo=react&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Jest-gray?style=flat&logo=Jest&logoColor=white">
 
 ### I want to learn
 <img src="https://img.shields.io/badge/-Python-gray?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Kotlin-gray?style=flat&logo=Kotlin&logoColor=white">
