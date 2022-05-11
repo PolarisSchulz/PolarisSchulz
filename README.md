@@ -28,6 +28,7 @@ I´m from Mexico, and I love technology, digital drawing, swimming, bodybuilding
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-Jest-ff69b4?style=flat&logo=Jest&logoColor=white">
 <img src="https://img.shields.io/badge/-Agile_Methodology-red?style=flat">
+<img src="https://img.shields.io/badge/-Figma-Black?style=flat&logo=Figma&logoColor=white"
 
 
 ### I’m currently learning
