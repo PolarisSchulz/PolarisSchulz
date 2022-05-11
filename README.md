@@ -66,7 +66,7 @@ and more... ♥
 
 ### Contact me, Click Here:point_down: 🌍
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white) target="_blank" rel="noopener noreferrer"](https://www.linkedin.com/in/abigaildgworks/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abigaildgworks/)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-ff69b4?style=flat&logo=Dribbble&logoColor=white)](https://dribbble.com/abigaildgworks/about)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=flat&logo=Behance&logoColor=white)](https://www.behance.net/abigailpena2)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/abigaildgworks/)
