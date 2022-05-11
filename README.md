@@ -1,3 +1,4 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 ### Hi there 👋
 
 <!--
@@ -40,7 +41,5 @@ Here are some ideas to get you started:
 ---
 
 ### You can find in me in the web
-
-[<img align="left" alt="abigaildgworks | Instagram" width="22px" src="https://www.flaticon.es/icono-premium/instagram_4138124?term=red%20social&page=1&position=12&page=1&position=12&related_id=4138124&origin=tag" />][instagram]
 
 
