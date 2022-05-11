@@ -30,15 +30,19 @@ Fan of technology, digital drawing, swimming, bodybuilding physique, astronomy, 
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 
 ### I want to learn
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> and more... ♥
+<img src="https://img.shields.io/badge/-Python-1572B6?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> and more... ♥
 
 ---
 
 ### Desing Tech Skills
 
 <img src="https://img.shields.io/badge/-Adobe_Photoshop-black?style=flat&logo=AdobePhotoshop&logoColor=white">
-<img src="https://img.shields.io/badge/-Adobe_XD-black?style=flat&logo=AdobexD&logoColor=white">
+<img src="https://img.shields.io/badge/-Adobe_Illustrator-black?style=flat&logo=Adobeillustrator&logoColor=white">
+<img src="https://img.shields.io/badge/-Adobe_InDesing-black?style=flat&logo=AdobeinDesign&logoColor=white">
 <img src="">
+<img src="">
+<img src="">
+<img src="https://img.shields.io/badge/-Adobe_XD-black?style=flat&logo=AdobexD&logoColor=white">
 
 ---
 
