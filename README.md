@@ -2,7 +2,7 @@
 
 ### Hi there, I´m Abigail Pena 🌻
 Welcome to my Github page! I am Front-End Developer with a lot of knowledge in UI/UX design and I have a career in graphic design at the UNAM university on Mexico!
-Fan of technology, digital drawing, swimming, bodybuilding physique, astronomy, animation and independent film.
+Fan of technology, digital drawing, swimming, bodybuilding physique, astronomy, animation and movie reviews.
 
 🌱 Things I am currently working on:
 - Portfolio
