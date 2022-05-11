@@ -15,6 +15,8 @@ I´m from Mexico, and I love technology, digital drawing, swimming, bodybuilding
 
 ⚡ Unbelievable fact: My first words were "Hello world". (I warned you!)
 
+(Esto solo es de prueba, aca va a ir una ilustracion bonita -->)
+
 
 ---
 ---
