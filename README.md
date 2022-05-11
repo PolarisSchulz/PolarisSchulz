@@ -26,10 +26,10 @@
 
 ---
 
-### You can find in me in the web
+### You can find in me in the web, Click Here!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abigaildgworks/)
-[<img src="https://img.shields.io/github/followers/PolarisSchulz?label=follow&style=social" height="22" title="Follow me" />](https://github.com/PolarisSchulz) 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/abigaildgworks/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abigaildgworks@gmail.com)
+[<img src="https://img.shields.io/github/followers/PolarisSchulz?label=follow&style=social" height="22" title="Follow me" />](https://github.com/PolarisSchulz) 
 
