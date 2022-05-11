@@ -28,7 +28,8 @@ I´m from Mexico, and I love technology, digital drawing, swimming, bodybuilding
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-Jest-ff69b4?style=flat&logo=Jest&logoColor=white">
 <img src="https://img.shields.io/badge/-Agile_Methodology-red?style=flat">
-<img src="https://img.shields.io/badge/-Figma-Black?style=flat&logo=Figma&logoColor=white"
+<img src="https://img.shields.io/badge/-Figma-Black?style=flat&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/-Adobe_XD-ff69b4?style=flat&logo=AdobexD&logoColor=white">
 
 
 ### I’m currently learning
@@ -51,7 +52,6 @@ and more... ♥
 <img src="https://img.shields.io/badge/-Adobe_Premiere_Pro-black?style=flat&logo=Adobepremierepro&logoColor=white">
 <img src="https://img.shields.io/badge/-Adobe_After_Effects-black?style=flat&logo=Adobeaftereffects&logoColor=white">
 <img src="https://img.shields.io/badge/-Adobe_Audition-black?style=flat&logo=Adobeaudition&logoColor=white">
-<img src="https://img.shields.io/badge/-Adobe_XD-black?style=flat&logo=AdobexD&logoColor=white">
 <img src="https://img.shields.io/badge/-Blender-black?style=flat&logo=Blender&logoColor=white">
 <img src="https://img.shields.io/badge/-Cinema_4D-black?style=flat&logo=Cinema4d&logoColor=white">
 <img src="https://img.shields.io/badge/-OBS_Studio-black?style=flat&logo=Obsstudio&logoColor=white">
