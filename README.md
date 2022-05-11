@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+
 ### Tech & Tools 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -29,4 +31,16 @@ Here are some ideas to get you started:
 
 ### I want to learn
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> and more... ♥
+
+---
+
+### Desing Tech Skills
+
+
+---
+
+### You can find in me in the web
+
+[<img align="left" alt="abigaildgworks | Instagram" width="22px" src="https://www.flaticon.es/icono-premium/instagram_4138124?term=red%20social&page=1&position=12&page=1&position=12&related_id=4138124&origin=tag" />][instagram]
+
 
