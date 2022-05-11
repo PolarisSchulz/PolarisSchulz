@@ -1,7 +1,8 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ### Hi there, I´m Abigail Pena 🌻
-Welcome to my Github page! I am Front-End Developer and I have a career in graphic design at the UNAM university!
+Welcome to my Github page! I am Front-End Developer with a lot of knowledge in UI/UX design and I have a career in graphic design at the UNAM university on Mexico!
+Fan of technology, digital drawing, swimming, bodybuilding physique, astronomy, animation and independent film.
 
 🌱 Things I am currently working on:
 - Portfolio
@@ -20,6 +21,7 @@ Welcome to my Github page! I am Front-End Developer and I have a career in graph
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/-Jest-ff69b4?style=flat&logo=Jest&logoColor=white">
 
 ### I’m currently learning
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
