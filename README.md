@@ -16,9 +16,7 @@ I´m from Mexico :house_with_garden: and I love technology, digital drawing, swi
 
 💬 Ask me about programming in general, I am always available to help and learn together.
 
-⚡ Unbelievable fact: My first words were "Hello world".
-
-(I warned you!:wink:)
+⚡ Unbelievable fact: My first words were "Hello world". (I warned you!:wink:)
 
 
 ---
