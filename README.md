@@ -1,6 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ### Hey there, nice to see you 🌻
+<img align="right" alt="img" src="https://i.pinimg.com/originals/9c/35/6c/9c356c9ded0c8d64958ca64d8473ebf1.gif" width="500px" height="auto" />
 Welcome to my Github page!
 
 I´m Abigail, Front-End Developer with a lot of knowledge in UI/UX design and I have a career in graphic design.
