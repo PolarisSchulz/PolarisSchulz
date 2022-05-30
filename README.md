@@ -17,7 +17,7 @@ I´m from Mexico :house_with_garden: and I love technology, digital drawing, swi
 
 ⚡ Unbelievable fact: My first words were "Hello world". (I warned you!:wink:)
 
-<img align="right" alt="img" src="https://i.pinimg.com/originals/9c/35/6c/9c356c9ded0c8d64958ca64d8473ebf1.gif" width="500px" height="auto" />
+
 
 ---
 ---
