@@ -6,9 +6,7 @@ I´m Abigail, Front-End Developer with a lot of knowledge in UI/UX design and I 
 I´m from Mexico :house_with_garden: and I love technology, digital drawing, swimming, bodybuilding physique, astronomy, animation and movie reviews.
 
 🌱 Things I am currently working on:
-- Project: Lab Notes
-- Portfolio *Comming Soon*
-- My Web page  *Comming Soon*
+Desing Thinking, User Research
 
 💬 Ask me about programming in general, I am always available to help and learn together.
 
