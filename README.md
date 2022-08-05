@@ -36,8 +36,7 @@ Desing Thinking, User Research
 <img src="https://img.shields.io/badge/-Sass-gray?style=flat&logo=sass&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-gray?style=flat&logo=react&logoColor=ffffff">
 
 ### I want to learn
-<img src="https://img.shields.io/badge/-Python-gray?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Kotlin-gray?style=flat&logo=Kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-gray?style=flat&logo=bootstrap&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Bootstrap-gray?style=flat&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/-Tailwind-gray?style=flat&logo=Tailwind&logoColor=white"> 
 
 and more... ♥
 
